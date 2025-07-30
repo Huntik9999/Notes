@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "b16d211cae19133e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7a000706bdb6d75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee27767a34f9946f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "323fafef84f71af4",
+    "type": "split",
+    "children": [
+      {
+        "id": "2799ba28f965f01a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "909145698bd451ab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9a63279ee65891d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "68826586d7b180c9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cb02f66bb2e6c8aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "07f0ab025acdefed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "516b9c322d4d3854",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Data Structures Class/Video 1 - Intro.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Video 1 - Intro"
+            }
+          },
+          {
+            "id": "cce2d461a2d24621",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Data Structures Class/Video 1 - Intro.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Video 1 - Intro"
+            }
+          },
+          {
+            "id": "7464f881dfed1ad6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f7134df1c7ea1f72",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Data Structures Class/Video 1 - Intro.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Video 1 - Intro"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "909145698bd451ab",
+  "lastOpenFiles": [
+    "Tech/HandHelds",
+    "Tech/Laptops",
+    "Tech",
+    "Untitled.canvas",
+    "C++",
+    "2025-07-29.md",
+    "Data Structures Class/Video 2 - Basic C++ Concepts.md",
+    "Data Structures Class/Video 4 - Resource Management & Linked List.md",
+    "Data Structures Class/Video 1 - Intro.md",
+    "Data Structures Class/Video 5.md",
+    "Data Structures Class/Video 3.md",
+    "Welcome.md",
+    "Data Structures Class"
+  ]
+}
