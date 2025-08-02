@@ -11,10 +11,14 @@
             "id": "ee27767a34f9946f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "GitHub.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GitHub"
             }
           }
         ]
@@ -161,15 +165,18 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "ee27767a34f9946f",
   "lastOpenFiles": [
+    "2025-08-02.md",
+    "GitHub.md",
+    "Untitled.canvas",
     "Tech/HandHelds",
     "Tech/Laptops",
     "Tech",
-    "Untitled.canvas",
     "C++",
     "2025-07-29.md",
     "Data Structures Class/Video 2 - Basic C++ Concepts.md",
