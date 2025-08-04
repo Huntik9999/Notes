@@ -165,14 +165,19 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "ee27767a34f9946f",
   "lastOpenFiles": [
-    "2025-08-02.md",
+    "Art/Roadmap.md",
+    "Learn C++/Untitled.md",
     "GitHub.md",
+    "LeetCode",
+    "SFML",
+    "Art",
+    "Learn C++",
+    "2025-08-02.md",
     "Untitled.canvas",
     "Tech/HandHelds",
     "Tech/Laptops",
