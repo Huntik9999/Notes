@@ -1,0 +1,4 @@
+- Learn C++ - 1 Page
+- 30min - drawing 
+- SFML - 1 chapter 
+- LeetCode - 1 problem

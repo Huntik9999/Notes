@@ -1,0 +1,22 @@
+- Data structure 
+- Static Array 
+	- fixed capacity 
+	- determined at compile time 
+	- cant change
+- Dynamic Array 
+	- functions
+		- Add Element 
+			- add to end 
+			- if too small increase size then add
+		- Delete Element
+			- remove()
+				- delete from end
+			- removeAt(index)
+				- remove element 
+				- shift values to left
+		- Resize of Array Size
+			- shrinkSize()
+				- free up memory
+			- Increase Size 
+				- allocate bigger array
+				- copy elements over 

@@ -4,7 +4,7 @@
  3. `git commit -m "Update notes"`
  4. `git push`
 
-Script : 
+Script (Update Notes) : 
 `cd ~/OneDrive/Desktop/Repos/"Obsidian Repo" && git add . && git commit -m "Update notes" && git push`
 
 #### New Repository 
